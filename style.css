@@ -97,6 +97,8 @@ h1{
 	body{
 		background-image: url("images/download.png");
 	}
+	/* We needed to change the background when the page moved to our mobile device. Therefore, the background showed properly. 
+	this was a white background.*/
 	.background-col {
 	height: 100%;
 	width: 100%;
@@ -106,6 +108,7 @@ h1{
 	border: 3px;
 	padding: 10px;
 }
+	/*We needed each of the divs to expand into full capacity displayed on the screen*/
 	.pink-col {
 	height: 100%;
 	width: 100%;
